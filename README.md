@@ -1,5 +1,5 @@
 # Minecraft-Classic-Textures-Plus
-This is the Github page for the Bedrock Edition version of the Programmer Art+ Resource Pack for Minecraft 1.14.x, you can submit textures and sprites here, and there's a chance I will add them in!
+This is the Github page for the Bedrock Edition version of the Programmer Art+ Resource Pack for Minecraft 1.14.x, if you want to submit textures or sprites, go to the main branch for the Java Edition version.
 
 
 # Previews

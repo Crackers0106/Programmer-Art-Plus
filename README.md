@@ -3,4 +3,4 @@ This is the Github page for the Programmer Art+ Resource Pack for Minecraft 1.15
 
 
 # Previews
-https://imgur.com/a/jeQ8DpR
+https://imgur.com/a/jeQ8DpR (Outdated)

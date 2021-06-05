@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "The classic look of Minecraft. Now with more textures!",
+    "min_engine_version": [
+      1,
+      16,
+      20
+    ],
+    "name": "Programmer Art+ v2.1.0",
+    "uuid": "a08ae28a-5a05-4932-96cc-72f8b63b7ceb",
+    "version": [
+      2,
+      1,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "The classic look of Minecraft. Now with more textures!",
+      "type": "resources",
+      "uuid": "d1f92482-da9b-4bb6-a8f3-2f524d90b4e9",
+      "version": [
+        2,
+        1,
+        0
+      ]
+    }
+  ]
+}

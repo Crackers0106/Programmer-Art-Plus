@@ -7,12 +7,12 @@
       17,
       0
     ],
-    "name": "Programmer Art+ v2.1.1",
+    "name": "Programmer Art+ v2.1.2",
     "uuid": "a08ae28a-5a05-4932-96cc-72f8b63b7ceb",
     "version": [
       2,
       1,
-      1
+      2
     ]
   },
   "modules": [
@@ -23,7 +23,7 @@
       "version": [
         2,
         1,
-        1
+        2
       ]
     }
   ]

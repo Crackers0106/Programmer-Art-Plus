@@ -4,15 +4,15 @@
     "description": "The classic look of Minecraft. Now with more textures!",
     "min_engine_version": [
       1,
-      16,
-      20
+      17,
+      0
     ],
-    "name": "Programmer Art+ v2.1.0",
+    "name": "Programmer Art+ v2.1.1",
     "uuid": "a08ae28a-5a05-4932-96cc-72f8b63b7ceb",
     "version": [
       2,
       1,
-      0
+      1
     ]
   },
   "modules": [
@@ -23,7 +23,7 @@
       "version": [
         2,
         1,
-        0
+        1
       ]
     }
   ]

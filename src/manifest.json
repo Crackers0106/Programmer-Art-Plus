@@ -1,30 +1,30 @@
 {
-  "format_version": 2,
-  "header": {
-    "description": "The classic look of Minecraft. Now with more textures!",
-    "min_engine_version": [
-      1,
-      17,
-      0
-    ],
-    "name": "Programmer Art+ v2.1.3",
-    "uuid": "a08ae28a-5a05-4932-96cc-72f8b63b7ceb",
-    "version": [
-      2,
-      1,
-      3
+    "format_version": 2,
+    "header": {
+        "description": "The classic look of Minecraft. Now with more textures!",
+        "name": "Programmer Art+ v2.1.2",
+        "uuid": "2be3afe1-9f59-4fc4-a483-7894ab87476e",
+        "version": [
+            2,
+            1,
+            2
+        ],
+        "min_engine_version": [
+            1,
+            17,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "The classic look of Minecraft. Now with more textures!",
+            "type": "resources",
+            "uuid": "d5a3a6af-62e2-4cf0-9363-78af71de5553",
+            "version": [
+                2,
+                1,
+                2
+            ]
+        }
     ]
-  },
-  "modules": [
-    {
-      "description": "The classic look of Minecraft. Now with more textures!",
-      "type": "resources",
-      "uuid": "d1f92482-da9b-4bb6-a8f3-2f524d90b4e9",
-      "version": [
-        2,
-        1,
-        3
-      ]
-    }
-  ]
 }

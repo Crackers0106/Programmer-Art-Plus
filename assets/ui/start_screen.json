@@ -1,0 +1,22 @@
+//This JSON was modified by AgentMindStorm (@agentms_). Please do not use this document without permission.
+{
+  "panorama_overlay": {
+    "type": "image",
+    "texture": "textures/ui/panorama_overlay",
+    "layer": 3,
+    "size": [ "100%c", "100%" ]
+  },
+  "start_screen_content": {
+    "modifications": [
+      {
+        "array_name": "controls",
+        "operation": "insert_front",
+        "value": [
+          {
+            "panorama_overlay@start.panorama_overlay": {}
+          }
+        ]
+      }
+    ]
+  }
+}

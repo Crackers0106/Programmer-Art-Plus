@@ -6,7 +6,6 @@ More polygons!
 Moderately attractive!
 Limited edition!
 Flashing letters!
-Made by Notch!
 It's here!
 Best in class!
 It's finished!
@@ -26,7 +25,6 @@ Reticulating splines!
 Minecraft!
 Yaaay!
 Singleplayer!
-Undocumented!
 Keyboard compatible!
 Ingots!
 Exploding creepers!
@@ -36,7 +34,6 @@ Create!
 Survive!
 Dungeon!
 Exclusive!
-Down with O.P.P.!
 The bee's knees!
 Closed source!
 Classy!
@@ -98,7 +95,6 @@ Tell your friends!
 NP is not in P!
 Music by C418!
 Livestreamed!
-Notch <3 ez!
 Haunted!
 Polynomial!
 Terrestrial!
@@ -125,7 +121,6 @@ Synecdoche!
 Let's danec!
 Seecret Friday update!
 Reference implementation!
-Lewd with two dudes with food!
 Kiss the sky!
 20 GOTO 10!
 Verlet intregration!
@@ -137,7 +132,6 @@ A skeleton popped out!
 The sum of its parts!
 BTAF used to be good!
 I miss ADOM!
-The Work of Notch!
 umop-apisdn!
 OICU812!
 Bring me Ray Cokes!
@@ -172,7 +166,6 @@ Woo, somethingawful!
 Woo, /v/!
 Woo, tigsource!
 Woo, worldofminecraft!
-Woo, minecraftforum!
 Woo, reddit!
 Woo, 2pp!
 Google anlyticsed!
@@ -190,7 +183,6 @@ Gasp!
 Bees, bees, bees, bees!
 Jag känner en bot!
 This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
-Switches and ores!
 Haha, LOL!
 Hampsterdance!
 Menger sponge!
@@ -206,7 +198,6 @@ Scary!
 Play Minecraft, Watch Topgear, Get Pig!
 Twittered about!
 Jump up, jump up, and get down!
-Huge tracts of land!
 Joel is neat!
 A riddle, wrapped in a mystery!
 This parrot is no more! It has ceased to be!
@@ -237,7 +228,6 @@ Check out the far lands!
 Tyrion would love it!
 Also try VVVVVV!
 Also try Super Meat Boy!
-110813!
 Also try Terraria!
 Also try Mount And Blade!
 Also try Project Zomboid!
@@ -245,13 +235,13 @@ Also try World of Goo!
 Also try Limbo!
 Also try Pixeljunk Shooter!
 Also try Braid!
+Also try Developer Art+!
 That's super!
 Bread is pain!
 Read more books!
 Khaaaaaaaaan!
 Less addictive than TV Tropes!
 More addictive than lemonade!
-Totally forgot about Dre!
 Bigger than a bread box!
 Millions of peaches!
 Fnord!
@@ -267,7 +257,6 @@ Stop, hammertime!
 Testificates!
 Conventional!
 Homeomorphic to a 3-sphere!
-Hobo humping slobo babe!
 Doesn't avoid double negatives!
 Place ALL the blocks!
 Does barrel rolls!
@@ -324,7 +313,6 @@ pls rt
 Do you want to join my server?
 Put a little fence around it!
 Throw a blanket over it!
-Popping tags!
 One day, somewhere in the future, my work will be quoted!
 Now with additional stuff!
 Extra things!
@@ -334,12 +322,6 @@ Very influential in its circle!
 Now With Multiplayer!
 Rise from your grave!
 Warning! A huge battleship "STEVE" is approaching fast!
-Getting ready to show!
-Getting ready to know!
-Getting ready to drop!
-Getting ready to shock!
-Getting ready to freak!
-Getting ready to speak!
 Blue warrior shot the food!
 Run, coward! I hunger!
 Flavor with no seasoning!
@@ -395,6 +377,20 @@ Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
 Minecraft Java Edition presents: Disgusting Bugs
+Wash your hands!
+Soap and water!
+Support local businesses!
+Stay home and play games!
+Stay safe!
+Stay strong!
+Cough or sneeze into your elbow!
+Don’t touch your face!
+Support elderly relatives and friends!
+Prepare, but don’t hoard!
+Gamers unite – separately in your own homes!
+Save the world – stay inside!
+Shop for your elders!
+Hang out with your friends online!
 Honey, I grew the bees!
 Find your claw!
 Everybody do the Leif!
@@ -412,3 +408,11 @@ Also try Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!
 Zoglin!?
+Black lives matter!
+Be anti-racist!
+Learn about allyship!
+Speak OUT against injustice and UP for equality!
+Amplify and listen to BIPOC voices!
+Educate your friends on anti-racism!
+Support the BIPOC community and creators!
+Stand up for equality in your community!

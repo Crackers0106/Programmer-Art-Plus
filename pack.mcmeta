@@ -1,15 +1,6 @@
 {
-    "pack": {
-        "pack_format": 15,
-        "supported_formats": [15,18],
-        "description": "The classic look of Minecraft. Now with more textures!"
-    },
-    "overlays": {
-        "entries": [
-            {
-                "directory": "sliced-gui",
-                "formats": [18]
-            }
-        ]
-    }
+  "pack": {
+    "pack_format": 22,
+    "description": "The classic look of Minecraft. Now with more textures!"
+  }
 }

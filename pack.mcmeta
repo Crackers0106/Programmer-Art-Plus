@@ -1,14 +1,21 @@
 {
   "pack": {
     "description": "The classic look of Minecraft. Now with more textures!",
-    "pack_format": 42,
+    "pack_format": 46,
     "supported_formats": {
       "min_inclusive": 30,
-      "max_inclusive": 42
+      "max_inclusive": 46
     }
   },
   "overlays": {
     "entries": [
+      {
+        "directory": "old_banner_patterns",
+        "formats": {
+          "min_inclusive": 4,
+          "max_inclusive": 35
+        }
+      },
       {
         "directory": "format_22_to_29",
         "formats": {

@@ -3,10 +3,10 @@
     "description": "The classic look of Minecraft. Now with more textures!",
     "pack_format": 42,
     "min_format": 42,
-    "max_format": 75,
+    "max_format": 88,
     "supported_formats": {
       "min_inclusive": 42,
-      "max_inclusive": 75
+      "max_inclusive": 88
     }
   }
 }
